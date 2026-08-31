@@ -1,4 +1,4 @@
-# Sanofi Azure Data Pipeline — Architecture
+# Sanofi Azure Data Pipeline - Architecture
 
 ## Project Overview
 
